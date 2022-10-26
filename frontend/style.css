@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.h1 {
+font-size: 48px;
+font-weight: normal;
+color: #467745;
+align-content:;
+}
+
+.body {
+    background-color: #f7e4d4;
+}
+
+.button {
+    font-weight: normal;
+    font-size: 21px;
+    text-align: center;
+}
+
